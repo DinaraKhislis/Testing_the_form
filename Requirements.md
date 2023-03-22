@@ -1,7 +1,6 @@
 # Requirements
 
-*italic*
-## Requirements for field 'Name'
+## *Requirements for field 'Name'*
 
 
 
